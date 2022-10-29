@@ -10,5 +10,6 @@
 4. Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
 
 
-5. Begitulah cara menghitung luas dan keliling Lingkaran
+Seperti itulah  cara menghitung luas dan keliling Lingkaran, mohon maaf bila ada kesalahan.
 
+Terima Kasih
